@@ -1,1 +1,15 @@
-Me chamo Matheus Bezerra Picazzio, tenho 25 anos e estou cursando o meu primeiro semestre em Analise e Desenvolvimento de sistemas pela Universidade São Judas Tadeu - Campus Unimonte
+# Welcome!
+
+ 
+
+## I'm Matheus Picazzio!
+
+ 
+
+:computer: I'm Front-End Developer!
+
+:house_with_garden: I’m from Brazil.
+
+:books: I’m currently learning everything.
+
+:outbox_tray: 2021 Goals: create a new project and find a new job.
