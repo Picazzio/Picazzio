@@ -40,6 +40,8 @@
 
 :house_with_garden: I’m from Brazil.
 
+:dog: In love with animals.
+
 :books: Currently studying Systems Analysis and Development at Universidade São Judas - Campus Unimonte.
 
 :outbox_tray: 2022 Goals: Improve my knowledge and get an internship so that I can develop more and more.
