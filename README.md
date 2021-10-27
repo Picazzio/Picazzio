@@ -1,11 +1,13 @@
 # Olá_Mundo, Me chamo Matheus Picazzio!
 
 
- 
+
 
 :computer: Interessado em aprender Back-End!
 
 :house_with_garden: Residindo atualmente em Praia Grande-SP.
+
+:dog: Apaixonado pelos animais.
 
 :books: Atualmente cursando Analise e Desenvolvimento de Sistemas pela Universidade São Judas - Campus Unimonte.
 
