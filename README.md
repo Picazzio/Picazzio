@@ -7,11 +7,7 @@
 
 :house_with_garden: Residindo atualmente em Praia Grande-SP.
 
-:dog: Apaixonado pelos animais.
-
-:books: Atualmente cursando Analise e Desenvolvimento de Sistemas pela Universidade São Judas - Campus Unimonte.
-
-:outbox_tray: Metas 2022: Aprimorar meus conhecimentos e conseguir um estágio para que possa cada vez mais me desenvolver.
+:books: Atualmente cursando Analise e Desenvolvimento de Sistemas pela Unimes Virtual - Polo Boqueirão - PG.
 
  
 
@@ -40,9 +36,7 @@
 
 :house_with_garden: I’m from Brazil.
 
-:dog: In love with animals.
-
-:books: Currently studying Systems Analysis and Development at Universidade São Judas - Campus Unimonte.
+:books: Currently studying Systems Analysis and Development at Unimes Virtual - Polo Boqueirão - PG.
 
 :outbox_tray: 2022 Goals: Improve my knowledge and get an internship so that I can develop more and more.
 
